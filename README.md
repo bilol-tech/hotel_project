@@ -1,16 +1,26 @@
-# flutter_project
+# Hotel Booking Application
 
-A new Flutter project.
+![Hotel](https://github.com/bilol-tech/hotel_project/blob/main/assets/images/on_boarding_images/Hotel.png)
 
-## Getting Started
+This is a cutting-edge booking application designed to streamline hotel room reservations. With a user-friendly interface, users can effortlessly browse and book accommodations to suit their needs.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- User-friendly interface
+- Effortless browsing and booking of accommodations
+- Streamlined hotel room reservation process
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Technologies Used
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter
+- Dart
+- REST APIs
+- Provider
+- Cupertino Widgets
+
+## Usage
+
+1. Download and install the Hotel Booking Application on your device.
+2. Browse through available accommodations.
+3. Select desired dates and preferences.
+4. Book your accommodation seamlessly.
